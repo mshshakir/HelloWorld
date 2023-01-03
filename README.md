@@ -1,26 +1,26 @@
 # Android Prework - *Hello World*
 
-Submitted by: Mufaddal Shakir
+Submitted by: **Mufaddal Shakir**
 
-*Hello World* is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: 1 hours spent in total
+Time spent: **1 hour** spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/ljxoHMj.gif' title='HelloWorld_Roses' width='' alt='HelloWorld_Roses' />
+<img src='HelloWorld.gif' title='HelloWorld_Roses' width='' alt='HelloWorld_Roses' />
 
-GIF created with ScreentoGif 
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 
 ## Notes
